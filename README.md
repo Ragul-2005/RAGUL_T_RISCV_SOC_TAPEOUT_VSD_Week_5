@@ -31,9 +31,9 @@
 
 ## ⚙️ <span style="color:#79c0ff;">Overview</span>
 
-**OpenROAD** provides a comprehensive open-source solution for transforming RTL designs into physical **GDSII** layouts.  
-This automated toolchain handles every stage of digital IC design — from **synthesis**, **floorplanning**, **placement**, **clock distribution**, **routing**, and **final layout generation**.  
-Its streamlined approach accelerates design cycles, making it particularly valuable for **research** and **rapid prototyping** environments.
+- **OpenROAD** provides a comprehensive open-source solution for transforming RTL designs into physical **GDSII** layouts.  
+- This automated toolchain handles every stage of digital IC design — from **synthesis**, **floorplanning**, **placement**, **clock distribution**, **routing**, and **final layout generation**.  
+- Its streamlined approach accelerates design cycles, making it particularly valuable for **research** and **rapid prototyping** environments.
 
 ---
 
