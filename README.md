@@ -1,5 +1,5 @@
 # RAGUL_T_RISCV_SOC_TAPEOUT_VSD_Week_5
-<div align="center" style="background-color:#0d1117; color:#e6edf3; padding:40px; border-radius:20px;">
+<div  style="background-color:#0d1117; color:#e6edf3; padding:40px; border-radius:20px;">
 
 # 🧩 <span style="color:#58a6ff;">OpenROAD Installation & Setup Guide</span>
 
