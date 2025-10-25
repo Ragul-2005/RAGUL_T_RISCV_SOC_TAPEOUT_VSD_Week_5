@@ -139,8 +139,8 @@ Experiment with PDKs like Sky130
 
 ### 👨‍💻 <span style="color:#ffa657;">Contributor</span>
 <div>
-💫 RAGUL T (VLSI Design Engineer & Technology)
-📍 Chennai Institute of Technology
+- 💫 RAGUL T (VLSI Design Engineer & Technology)
+- 📍 Chennai Institute of Technology
 
 <p align="center">
 <div align="center" style="margin-top:40px;">
@@ -150,6 +150,6 @@ Experiment with PDKs like Sky130
 
 <p align="center">
 
-</p> </div> </div> ```
+</p> </div> </div> 
 
 
