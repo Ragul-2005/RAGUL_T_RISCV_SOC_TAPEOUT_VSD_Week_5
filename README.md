@@ -137,8 +137,8 @@ Conduct timing analysis and DRC/LVS
 
 Experiment with PDKs like Sky130
 
-👨‍💻 <span style="color:#ffa657;">Contributor</span>
-<div align="center">
+### 👨‍💻 <span style="color:#ffa657;">Contributor</span>
+<div>
 💫 RAGUL T (VLSI Design Engineer & Technology)
 📍 Chennai Institute of Technology
 
